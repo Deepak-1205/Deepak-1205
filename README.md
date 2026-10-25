@@ -4,8 +4,7 @@
 
 <h1>✦ Hey, I'm Deepak S</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=AI+%26+Data+Science+Student;Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+Reinforcement+Learning" alt="Typing animation" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=60&lines=AI+%26+Data+Science+Student;Machine+Learning+%7C+Deep+Learning+%7C+Reinforcement+Learning" alt="Typing animation" />
 <br/>
 
 <a href="https://github.com/Deepak-1205"><img src="https://img.shields.io/badge/GitHub-Deepak--1205-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
